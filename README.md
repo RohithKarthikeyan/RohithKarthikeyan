@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohithKarthikeyan
 - 👀 I’m interested in computers and engineering
-- 🌱 I’m currently in 11th grade
+- 🌱 I’m currently freshman at UT Austin
 - 📫 How to reach me:
 
 <!---
