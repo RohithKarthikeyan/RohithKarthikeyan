@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RohithKarthikeyan
 - 👀 I’m interested in computers and engineering
-- 🌱 I’m currently freshman at UT Austin
-- 📫 How to reach me:
+- 🌱 I’m currently a Junior at UT Austin
 
 <!---
 RohithKarthikeyan/RohithKarthikeyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
